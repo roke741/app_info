@@ -1,4 +1,7 @@
 {
-  "user1":"123123sadsdasd",
-  "user2":"123"
+  "usuarios":[
+    "admin741",
+    "12312312",
+    "asdmin"
+  ]
 }
